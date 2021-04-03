@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kira/beginningToCpp/lab_06/src/main.cpp
+cstdio
+-
+cstring
+-
+cassert
+-
+cstdlib
+-
+my_vector.h
+/home/kira/beginningToCpp/lab_06/src/my_vector.h
+
+/home/kira/beginningToCpp/lab_06/src/my_vector.cpp
+my_vector.h
+/home/kira/beginningToCpp/lab_06/src/my_vector.h
+utility
+/home/kira/beginningToCpp/lab_06/src/utility
+
+include/my_vector.h
+cstddef
+-
+

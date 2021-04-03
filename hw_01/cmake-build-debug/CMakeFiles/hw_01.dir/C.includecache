@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bmp.h
+stdint.h
+-
+
+/home/kira/beginningToCpp/hw_01/src/bmp.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bmp.h
+/home/kira/beginningToCpp/hw_01/src/bmp.h
+
+/home/kira/beginningToCpp/hw_01/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+bmp.h
+/home/kira/beginningToCpp/hw_01/src/bmp.h
+

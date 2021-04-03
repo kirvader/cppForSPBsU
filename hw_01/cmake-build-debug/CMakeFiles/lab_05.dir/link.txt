@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab_05.dir/src/main.c.o CMakeFiles/lab_05.dir/src/bmp.c.o  -o lab_05 

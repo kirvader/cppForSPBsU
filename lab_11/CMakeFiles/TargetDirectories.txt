@@ -1,0 +1,3 @@
+/home/kira/beginningToCpp/lab_11/CMakeFiles/rebuild_cache.dir
+/home/kira/beginningToCpp/lab_11/CMakeFiles/edit_cache.dir
+/home/kira/beginningToCpp/lab_11/CMakeFiles/lab_11.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matrix.hpp
+cstdio
+-
+cstddef
+-
+
+../include/shared_ptr.hpp
+matrix.hpp
+../include/matrix.hpp
+
+/home/kira/beginningToCpp/lab_08/src/shared_ptr.cpp
+shared_ptr.hpp
+/home/kira/beginningToCpp/lab_08/src/shared_ptr.hpp
+

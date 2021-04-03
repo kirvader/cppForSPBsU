@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kira/beginningToCpp/lab_07/src/matrix.cpp
+matrix.h
+/home/kira/beginningToCpp/lab_07/src/matrix.h
+
+/home/kira/beginningToCpp/lab_07/src/matrix.h
+cstdio
+-
+cstddef
+-
+
