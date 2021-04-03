@@ -1,7 +1,3 @@
-//
-// Created by kira on 03.03.2021.
-//
-
 #ifndef LAB_07_MATRIX_H
 #define LAB_07_MATRIX_H
 

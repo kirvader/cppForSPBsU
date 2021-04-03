@@ -1,3 +1,0 @@
-/home/kira/beginningToCpp/hw_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kira/beginningToCpp/hw_01/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kira/beginningToCpp/hw_01/cmake-build-debug/CMakeFiles/hw_01.dir

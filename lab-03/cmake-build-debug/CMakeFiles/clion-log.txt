@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/kira/beginningToCpp/lab-03 Select CMakeLists.txt

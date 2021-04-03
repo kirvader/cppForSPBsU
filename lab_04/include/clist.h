@@ -8,7 +8,7 @@
 struct intrusive_node {
 	struct intrusive_node *next;
 	struct intrusive_node *prev;
-} intrusive_node;
+};
 
 struct intrusive_list {
     struct intrusive_node *head;

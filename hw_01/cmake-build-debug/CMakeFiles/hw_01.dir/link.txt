@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/hw_01.dir/src/main.c.o CMakeFiles/hw_01.dir/src/bmp.c.o  -o hw_01 

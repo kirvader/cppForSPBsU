@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/lab_04.dir/src/main.c.o CMakeFiles/lab_04.dir/src/clist.c.o  -o lab_04 
